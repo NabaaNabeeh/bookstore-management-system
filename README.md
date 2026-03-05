@@ -18,7 +18,7 @@ The project demonstrates key OOP principles such as modular design, classes, and
 * Book review system
 * Admin dashboard for managing the system
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Java
 * Object-Oriented Programming (OOP)
