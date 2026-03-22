@@ -27,3 +27,10 @@ The project demonstrates key OOP principles such as modular design, classes, and
 
 ## note:
 Developed as part of a university Object-Oriented Programming group project.
+
+##Student names
+- Nabaa Alaswad
+- Maisoon Alabdullah
+- Wajd Alkhaldi
+- Jawaher Almussalami
+- Manar Alghamdi
